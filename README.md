@@ -5,7 +5,7 @@ ffa_utils_parker.py: Defines the functions to localise the emission region, calc
 
 test-star.py: Calculates the mass-loss rate upper limits for a star of a given mass and radius as a function of the wind temperature and the magnetic field strength, given a detection of ECMI.
 
-sample-lotss.py: Calculates the mass-loss rate upper limits for a sample of M dwarfs detected with LOFAR (Callingham et al. 2020).
+sample-lotss.py: Calculates the mass-loss rate upper limits for a sample of M dwarfs detected with LOFAR (Callingham et al. 2021).
 
 GJ625_b.py: Calculates mass-loss rate upper limits for GJ 625 as a function of stellar magnetic field strength and determines the corresponding dynamic and magnetic pressure on GJ625 b.
 
